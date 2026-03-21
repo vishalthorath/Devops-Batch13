@@ -1,0 +1,17 @@
+demo
+dir1
+dir2
+dir3
+dir4
+edit.txt
+notepad.txt
+note.txt
+notetxtpad.txt
+textpad.txt
+ Hola get me a jacket 
+ Hola get me a bucket Hello Hello
+ Hola get me a gasket
+ Hola get me a cutlet
+ Hello get me a casset
+ Hello get me a croset
+ Hello get me a munch 

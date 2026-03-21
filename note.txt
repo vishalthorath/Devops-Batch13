@@ -1,0 +1,31 @@
+Hello everyone
+This is Mine first file in vi editor
+Linux is very powerful
+I am learning commands in terminal
+Practice makes a person perfect
+DevOps and Linux are interesting
+Today I learned how to use vi editor
+Linux helps automate many tasks
+The terminal is very useful
+Learning commands takes time
+Consistency is the key to success
+I practice Linux commands daily
+The vi editor is fast and powerful
+Navigation in vi becomes easy with practice
+Searching text in vi is very useful
+Replacing words in vi saves time
+Linux is widely used in servers
+Many companies use Linux systems
+Understanding Linux improves technical skills
+Shell commands help manage files
+The cat command displays file content
+The grep command searches text
+The head command shows first lines
+The tail command shows last lines
+The wc command counts lines and words
+Permissions are important in Linux
+The chmod command changes permissions
+The chgrp command changes group ownership
+Practice daily to master Linux
+Never stop learning new technologies
+Hello VISHAL M THORATH how's your class going on
